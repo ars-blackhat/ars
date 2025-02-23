@@ -1,4 +1,3 @@
-
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1500&color=00FFFF&center=true&vCenter=true&width=700&lines=Hi+(+%E2%81%A0%E2%97%A0%E2%80%BF%E2%97%95%E2%81%A0)+I%27m+Anurag+Raj+Singh;Welcome+to+my+Profile!" alt="Typing SVG" /></a>
 </div>
@@ -14,7 +13,7 @@
 <!-- About Me Section -->
 <h2 align="left">🚀 About Me</h2>
 
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExanVucGc4dG5weXhmZnBlYXBxYWJkaHk1b2U0bXZjc3F6ZXdpeDhhdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fV76W3Vw9Pxj4TSOeV/giphy.gif"/>
+<img align="right" alt="Coding" width="400" style="margin-top: -60px;" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExanVucGc4dG5weXhmZnBlYXBxYWJkaHk1b2U0bXZjc3F6ZXdpeDhhdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fV76W3Vw9Pxj4TSOeV/giphy.gif"/>
 
 - 🌱 I'm currently learning **DSA**
 - 💬 Ask me about **C, Python**
@@ -27,7 +26,7 @@
   <a href="https://linkedin.com/in/anurag-raj-singh-433b65254" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anurag-raj-singh-433b65254" height="30" width="40" />
   </a>&nbsp;
-  <a href="https://instagram.com/attuned_anurag" target="blank">
+  <a href="https://www.instagram.com/attuned_anurag?igsh=YzljYTk1ODg3Zg==" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="attuned_anurag" height="30" width="40" />
   </a>
 </p>

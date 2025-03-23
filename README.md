@@ -45,17 +45,6 @@
   </a>
 </p>
 
-<!-- GitHub Stats Section -->
-<h2 align="left">📊 GitHub Stats</h2>
-<div align="center">
-  <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ars-blackhat&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=0D1117&border_color=00FFFF&text_color=00FFFF&title_color=00FFFF" alt="ars-blackhat" />
-  </p>
-  <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ars-blackhat&show_icons=true&locale=en&theme=dark&bg_color=0D1117&border_color=00FFFF&text_color=00FFFF&title_color=00FFFF&icon_color=00FFFF" alt="ars-blackhat" />
-  </p>
-</div>
-
 <!-- Dynamic Quote Section -->
 <div align="center">
   <i style="color: #00FFFF">💭 The advance of technology is based on making it fit in so that you don't really even notice it. - Bill Gates</i>
